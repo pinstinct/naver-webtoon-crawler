@@ -1,5 +1,4 @@
 # 소개
-구현한 주요 기능은 다음과 같다.
 
 [네이버 웹툰](http://comic.naver.com/webtoon/list.nhn)의 만화(titleId)를 크롤링하는 어플리케이션입니다.
 
